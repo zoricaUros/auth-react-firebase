@@ -1,0 +1,36 @@
+.App {
+   text-align: center;
+   margin-top: 3rem;
+
+}
+
+.register--text {
+    margin-bottom: 2rem;
+    font-weight: 700;
+}
+
+.login--text {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.user--loggedin {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.btn--signout {
+    background-color: rgb(124, 117, 117);
+    border-radius: 0.6rem;
+    height: 3.6rem;
+    width: 8rem;
+    color: rgb(236, 243, 240);
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.btn--create--user {
+    margin-left: 1rem;
+}

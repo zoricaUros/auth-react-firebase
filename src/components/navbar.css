@@ -1,0 +1,33 @@
+/** @format */
+
+.nav--holder > ul {
+  height: 82px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #3c3d3f;
+}
+
+.nav--holder>ul>li {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.nav--link {
+  list-style-type: none;
+  
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.link--text:hover {
+  color: rgb(91, 194, 149);
+}
+
+.link--text {
+  text-decoration: none;
+  color: white;
+}
